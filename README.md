@@ -6,3 +6,5 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 Email: user@nextmail.com
 Password: 123456
+
+Website: https://vercel-learn-nextjs-plum.vercel.app/
